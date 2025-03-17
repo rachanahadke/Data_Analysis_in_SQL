@@ -18,7 +18,7 @@ This project focuses on analyzing sales and operational data for AtliQ Hardware 
 ---
 
 ## Project Overview
-AtliQ Hardware is a leading company in the electronics industry, operating across multiple regions and platforms. This project analyzes sales data to drive business growth and optimize product performance, discounts, and customer engagement.
+AtliQ Hardware is a company in the electronics industry, operating across multiple regions and platforms. This project analyzes sales data to drive business growth and optimize product performance, discounts, and customer engagement.
 
 ---
 
