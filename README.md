@@ -1,6 +1,6 @@
 # AtliQ Hardware Sales Analysis
 
-This project focuses on analyzing sales and operational data for AtliQ Hardware to uncover actionable insights and support strategic decision-making.
+This project focuses on analyzing sales data for AtliQ Hardware to uncover actionable insights and support strategic decision-making.
 
 ---
 
